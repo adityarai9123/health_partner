@@ -225,7 +225,8 @@ export const getDoctorsWithAccess = async (req, res) => {
 
 // Get pending access requests (for patient)
 export const getPendingRequests = async (req, res) => {
-  try {
+  try { 
+    //patientId
     const patientId = req.user._id;
     
     const patient = await User.findById(patientId)
