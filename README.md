@@ -218,4 +218,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <hr />
 <br />
-Made With Love 💖 By @Somgester and @HarshK2021
+Made With Love 💖 By @Aditya Rai
